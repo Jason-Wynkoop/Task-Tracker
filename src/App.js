@@ -9,7 +9,6 @@ import Footer from './components/Footer'
 import About from './components/About'
 
 
-
 function App() {
 
   const [showAddTask, setShowAddTask] = useState(false)
